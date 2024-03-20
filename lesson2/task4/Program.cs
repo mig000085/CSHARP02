@@ -1,5 +1,5 @@
 ﻿int n = 5;
-int[] array = { 20, 4, 7, 3, 90 };
+int[] array = { 20, 4, 7, 100, 90 };
 int i = 0;
 int max = array[0];
 
