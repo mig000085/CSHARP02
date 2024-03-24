@@ -12,6 +12,7 @@ int nunber = Convert.ToInt32(Console.ReadLine());
 if (nunber < 100 || nunber > 999)
 {
     Console.WriteLine("Некорректный вод");
+    return;
 }
 int[] result = new int[3];
 
