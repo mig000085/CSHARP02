@@ -6,22 +6,29 @@
 // Пример
 // 456 => [6 5 4]
 // 781 => [1 8 7]
+// Вовод числа
+
 
 Console.WriteLine("Введите трехзначное число");
 int nunber = Convert.ToInt32(Console.ReadLine());
+// Проверкак числа 
 if (nunber < 100 || nunber > 999)
 {
     Console.WriteLine("Некорректный вод");
     return;
 }
+// Логика кода
+// Создоем массив
 int[] result = new int[3];
-
+// Проходимса по массиву 
 for (int i = 0; i < result.Length; i++)
 {
+    //Кладем последнию цифру массива
     result[i] = nunber % 10;
+    //Отрезаем последнию цифру у числа
     nunber /= 10;
 }
-
+// Выводим массив
 for (int i = 0; i < result.Length; i++)
 {
     Console.WriteLine(result[i] + "  ");
