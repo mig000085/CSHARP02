@@ -25,4 +25,4 @@ for (int i = 0; i < array.Length; i++)
     }
 }
 
-Concole.WriteLine(res ? "да" : "нет");
+Console.WriteLine(res ? "да" : "нет");
