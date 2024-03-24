@@ -28,3 +28,4 @@ for (int i = 0; i < array.Length; i++)
 }
 //4. Вывод результата
 Console.WriteLine(res ? "да" : "нет");
+
