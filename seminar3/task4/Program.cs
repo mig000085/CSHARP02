@@ -9,7 +9,10 @@
 
 Console.WriteLine("Введите трехзначное число");
 int nunber = Convert.ToInt32(Console.ReadLine());
-
+if (nunber < 100 || nunber > 999)
+{
+    Console.WriteLine("Некорректный вод");
+}
 int[] result = new int[3];
 
 for (int i = 0; i < result.Length; i++)
@@ -22,3 +25,5 @@ for (int i = 0; i < result.Length; i++)
 {
     Console.WriteLine(result[i] + "  ");
 }
+
+
