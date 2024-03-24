@@ -11,7 +11,7 @@
 int[] arr = new int[10] { 1, -5, 6, 5, 4, 8, 9, -3, 5, 10 };
 for (int i = 0; i < arr.Length; i++)
 {
-    arr[i] = arr[i] * -1;
+    arr[i] *= -1;
 }
 for (int i = 0; i < arr.Length; i++)
 {
