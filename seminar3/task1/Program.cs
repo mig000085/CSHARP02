@@ -1,22 +1,28 @@
-﻿//Примеры создания массивов в C#
+﻿/*Задание 1. Совместная работа
+Задайте массив. Напишите программу, которая определяет,
+присутствует ли заданное число в массиве. Программа
+должна выдать ответ: Да / Нет.
+Примеры
+[1 3 4 19 3], 8 => Нет
+[-4 3 4 1], 3 => Да 
+int[] arr = num[5] { 1, 3, 4, 19, 3 };*/
 
-// int [] array = new int [4]; выделяется память на 4 элемента, заполнен нулями.
-// int [] array = new int [4] { 5, 6, 7, 8 }; заполнен указанными элементами.
-// int [] array = new int [] { 5, 6, 7, 8 }; заполнен указанными элементами.
-// int[] array = { 5, 6, 7, 8 };
 
 
 
-int[] array = { 5, 6, 7, 8 };
+
+int[] array = { 1, 3, 4, 19, 3, 8 };
+int num = 8;
+
+bool res = false;
 
 for (int i = 0; i < array.Length; i++)
 {
-    Console.WriteLine(i + " : " + array[i]);
+    if (array[i] == num)
+    {
+        res = true;
+        break;
+    }
 }
-Console.WriteLine();
 
-foreach (var item in array)
-{
-    Console.WriteLine(item);
-}
-Console.WriteLine();
+Concole.WriteLine(res ? "да" : "нет");
