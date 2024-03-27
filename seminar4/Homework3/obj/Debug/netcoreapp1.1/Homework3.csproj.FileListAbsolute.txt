@@ -1,0 +1,9 @@
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework3\bin\Debug\netcoreapp1.1\Homework3.deps.json
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework3\bin\Debug\netcoreapp1.1\Homework3.runtimeconfig.json
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework3\bin\Debug\netcoreapp1.1\Homework3.runtimeconfig.dev.json
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework3\obj\Debug\netcoreapp1.1\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework3\obj\Debug\netcoreapp1.1\Homework3.AssemblyInfo.cs
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework3\bin\Debug\netcoreapp1.1\Homework3.dll
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework3\bin\Debug\netcoreapp1.1\Homework3.pdb
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework3\obj\Debug\netcoreapp1.1\Homework3.dll
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework3\obj\Debug\netcoreapp1.1\Homework3.pdb
