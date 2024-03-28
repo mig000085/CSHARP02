@@ -1,6 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+      "C:\\Users\\mig\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\mig\\.nuget\\packages"
     ]
   }

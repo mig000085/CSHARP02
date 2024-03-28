@@ -7,3 +7,17 @@ C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework1\bin\Debug\netcoreapp1
 C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework1\bin\Debug\netcoreapp1.1\Homework1.pdb
 C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.dll
 C:\Users\mig\Desktop\CSHARP02-\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.pdb
+G:\CSHARP02\seminar4\Homework1\bin\Debug\netcoreapp1.1\Homework1.deps.json
+G:\CSHARP02\seminar4\Homework1\bin\Debug\netcoreapp1.1\Homework1.runtimeconfig.json
+G:\CSHARP02\seminar4\Homework1\bin\Debug\netcoreapp1.1\Homework1.runtimeconfig.dev.json
+G:\CSHARP02\seminar4\Homework1\bin\Debug\netcoreapp1.1\Homework1.dll
+G:\CSHARP02\seminar4\Homework1\bin\Debug\netcoreapp1.1\Homework1.pdb
+G:\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.csproj.AssemblyReference.cache
+G:\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.AssemblyInfoInputs.cache
+G:\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.AssemblyInfo.cs
+G:\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.csproj.CoreCompileInputs.cache
+G:\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.sourcelink.json
+G:\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.dll
+G:\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.pdb
+G:\CSHARP02\seminar4\Homework1\obj\Debug\netcoreapp1.1\Homework1.genruntimeconfig.cache
