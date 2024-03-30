@@ -7,3 +7,11 @@ C:\Users\mig\Desktop\CSHARP02-\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\ta
 C:\Users\mig\Desktop\CSHARP02-\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.AssemblyInfo.cs
 C:\Users\mig\Desktop\CSHARP02-\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.dll
 C:\Users\mig\Desktop\CSHARP02-\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.pdb
+G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.csproj.AssemblyReference.cache
+G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.AssemblyInfoInputs.cache
+G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.AssemblyInfo.cs
+G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.csproj.CoreCompileInputs.cache
+G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.sourcelink.json
+G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.dll
+G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.pdb
