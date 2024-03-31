@@ -15,3 +15,7 @@ G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.csproj.CoreCompileInputs
 G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.sourcelink.json
 G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.dll
 G:\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.pdb
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.csproj.AssemblyReference.cache
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.AssemblyInfoInputs.cache
+C:\Users\mig\Desktop\CSHARP02-\CSHARP02\lesson4\task1\obj\Debug\netcoreapp1.1\task1.sourcelink.json

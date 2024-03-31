@@ -1,5 +1,4 @@
 ﻿int[,] matrix = new int[3, 5];
-
 Random rnd = new Random();
 for (int i = 0; i < matrix.GetLength(0); i++)
 {

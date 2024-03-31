@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mig\\Desktop\\CSHARP02-\\CSHARP02\\lesson4\\task1\\task1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mig\\Desktop\\CSHARP02-\\CSHARP02\\lesson4\\task1\\task1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mig\\Desktop\\CSHARP02-\\CSHARP02\\lesson4\\task1\\task1.csproj",
+        "projectName": "task1",
+        "projectPath": "C:\\Users\\mig\\Desktop\\CSHARP02-\\CSHARP02\\lesson4\\task1\\task1.csproj",
+        "packagesPath": "C:\\Users\\mig\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mig\\Desktop\\CSHARP02-\\CSHARP02\\lesson4\\task1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mig\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "targetAlias": "netcoreapp1.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "targetAlias": "netcoreapp1.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

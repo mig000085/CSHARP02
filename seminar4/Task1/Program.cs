@@ -20,9 +20,11 @@ int[] CreateArrRnaInt(int size, int min, int max)
     for (int i = 0; i < size; i++)
     {
         array[i] = rnd.Next(min, max)
- 
-    
+
+
+
 
 
     return array;
+    }
 }
