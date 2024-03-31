@@ -4,7 +4,7 @@
 // Конструктор строки вида string(char []) не использовать.
 //[‘a’, ‘b’, ‘c’, ‘d’] => “abcd”
 
-char[] chars = { 'a', 'b,' 'c', 'd' };
+char[] chars = { 'a', 'b', 'c', 'd' };
 string strResuit = string.Empty;
 
 for (int i = 0; i < chars.Length; i++)
@@ -12,4 +12,4 @@ for (int i = 0; i < chars.Length; i++)
     strResuit += chars[i]; // c#
     //strResuit = strResuit + chars[i]; jaua
 }
-Console.whileLine(strResuit);
+Console.WriteLine(strResuit);
