@@ -19,12 +19,23 @@ int[] CreateArrRnaInt(int size, int min, int max)
 
     for (int i = 0; i < size; i++)
     {
-        array[i] = rnd.Next(min, max)
+        array[i] = rnd.Next(min, max);
 
 
 
 
 
-    return array;
+        return array;
     }
 }
+
+void PrintArray(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+}
+
+int[] arr = CreateArrRnaInt(10, 1, 100);
+PrintArray(arr);
