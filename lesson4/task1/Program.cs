@@ -13,7 +13,7 @@ for (int i = 0; i < matrix.GetLength(1); i++)
     for (int j = 0; j < matrix.GetLength(0); j++)
     {
 
-        Console.Wrireline($"{matrix[i, j]} ");
+        Console.Write($"{matrix[i, j]} ");
     }
     Console.Wrireline();
 }
@@ -40,7 +40,7 @@ void ShowMatrix(int[,] matrix)
         for (int j = 0; j < matrix.GetLength(0); j++)
         {
 
-            Console.Wrireline($"{matrix[i, j]} ");
+            Console.Write($"{matrix[i, j]} ");
         }
         Console.Wrireline();
     }
