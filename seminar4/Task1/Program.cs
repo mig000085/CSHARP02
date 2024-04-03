@@ -71,6 +71,6 @@ bool IsPrime(int num)
 }
 int[] arr = CreateArrayRndInt(10, 1, 100);
 PrintArray(arr);
-
+//Console.WriteLine();
 int countPrime = CountPrime(arr);
 Console.WriteLine($" => {countPrime}");
