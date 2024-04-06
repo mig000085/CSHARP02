@@ -60,3 +60,4 @@ int GetsumOfDigits(int value)
     }
     return sum;
 }
+
